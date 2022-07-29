@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="264.77765mm"
+   height="105.36314mm"
+   viewBox="0 0 264.77765 105.36314"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="美編JH.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5499273"
+     inkscape:cx="49.097399"
+     inkscape:cy="153.65667"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15.976771,-6.3813308)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="24.405418"
+       y="14.236156"
+       id="text8116"><tspan
+         sodipodi:role="line"
+         id="tspan8114"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="24.405418"
+         y="14.236156">Welcome to Cropbox Platform @ NTU RhoLab</tspan></text>
+    <g
+       id="g55243"
+       transform="translate(7.6979872,-15.395974)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.55;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:266.703;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="8.1649475"
+         y="55.453609"
+         id="text1666"><tspan
+           x="8.1649475"
+           y="55.453609"
+           id="tspan55270"><tspan
+             style="font-size:6.35px"
+             id="tspan55268">To login into Jupyter, click on the &quot;Sign in with KeyCloak&quot; button on the </tspan></tspan><tspan
+           x="8.1649475"
+           y="66.38973"
+           id="tspan55276"><tspan
+             style="font-size:6.35px"
+             id="tspan55272">left. </tspan><tspan
+             style="font-size:6.35px"
+             id="tspan55274">After redirected to the login portal, enter the username or password </tspan></tspan><tspan
+           x="8.1649475"
+           y="77.325849"
+           id="tspan55282"><tspan
+             style="font-size:6.35px"
+             id="tspan55278">of your </tspan><tspan
+             style="font-size:6.35px"
+             id="tspan55280">RhoLab Pass. If you aren't the member of RhoLab, you can sign in </tspan></tspan><tspan
+           x="8.1649475"
+           y="88.261968"
+           id="tspan55288"><tspan
+             style="font-size:6.35px"
+             id="tspan55284">with your Google </tspan><tspan
+             style="font-size:6.35px"
+             id="tspan55286">account by clicking on the Google button in the login form.</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.55;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:268.146;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="8.1649475"
+         y="55.453609"
+         id="text1666-1"
+         transform="translate(-0.44338378,59.448475)"><tspan
+           x="8.1649475"
+           y="55.453609"
+           id="tspan55292"><tspan
+             style="font-weight:bold;font-size:6.35px;-inkscape-font-specification:'Consolas, Bold'"
+             id="tspan55290">For feedback, bug report, Q&amp;A or any other suggestions, please email contact </tspan></tspan><tspan
+           x="8.1649475"
+           y="66.38973"
+           id="tspan55296"><tspan
+             style="font-weight:bold;font-size:6.35px;-inkscape-font-specification:'Consolas, Bold'"
+             id="tspan55294">r10628114@ntu.edu.tw</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="229.97737"
+       y="115.95093"
+       id="text19071"><tspan
+         sodipodi:role="line"
+         id="tspan19069"
+         style="stroke-width:0.264583"
+         x="229.97737"
+         y="115.95093" /></text>
+  </g>
+</svg>
